@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Bridge.cpp
+c:\users\bill\documents\visual studio 2017\projects\bridges - part 1\bridge\bridge.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\bill\documents\visual studio 2017\projects\bridges - part 1\bridge\bridge.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bridge.vcxproj -> C:\Users\Bill\Documents\Visual Studio 2017\Projects\Bridges - Part 1\Debug\Bridge.exe
+  Bridge.vcxproj -> C:\Users\Bill\Documents\Visual Studio 2017\Projects\Bridges - Part 1\Debug\Bridge.pdb (Partial PDB)
